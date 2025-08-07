@@ -1,0 +1,21 @@
+warehouse_id,city
+WH001,New York
+WH002,Los Angeles
+WH003,Chicago
+WH004,Houston
+WH005,Phoenix
+WH006,Philadelphia
+WH007,San Antonio
+WH008,San Diego
+WH009,Dallas
+WH010,San Jose
+WH011,Austin
+WH012,Jacksonville
+WH013,Fort Worth
+WH014,Columbus
+WH015,Charlotte
+WH016,San Francisco
+WH017,Indianapolis
+WH018,Seattle
+WH019,Denver
+WH020,Washington
